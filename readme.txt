@@ -7,3 +7,6 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git rong test a mutable index called stage.
 Git tracks changes.
+Git rong
+Git rong
+Git rong agian
